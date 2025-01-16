@@ -21,9 +21,9 @@ If the function returns anything else, the test should fail.
 
 //The Instructions
 /\* Last night, one of the faithfuls met their fate. But before they were killed, they left behind a clue as to who the murdererous traitor might be.
-//Someone has left a scroll of parchment outside your door with some mysterious code written on it
-//Search the code to find the name of the potential traitor
-//Here is a list of all the potential traitors to help you - "Linda", "Alexander", "Leanne", "Frankie"
+//A scroll of parchment outside your door with some mysterious code written on it.
+//Search the code to find the name of the potential traitor.
+//Here is a list of all the potential traitors indentified so far by the faithfuls to help you - "Linda", "Alexander", "Leanne", "Frankie"
 //Write a function to decipher the code and find the name of the traitor.
 
 //The Plan to solve

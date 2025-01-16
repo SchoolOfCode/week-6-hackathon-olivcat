@@ -3,8 +3,11 @@ export function findTraitor(parchmentCode) {
 
   // Loop through the list of traitors and check if their name exists as a substring in the code
   for (let name of potentialTraitors) {
+    //Holding the name of each potential traitor as a variable
     if (parchmentCode.includes(name)) {
+      //Checking if the name exists as a substring in the code
       return name;
+      console.log("Linda is a traitor!");
     }
   }
 
