@@ -7,12 +7,13 @@ export function findTraitor(parchmentCode) {
     if (parchmentCode.includes(name)) {
       //Checking if the name exists as a substring in the code
       return name;
-      console.log("Linda is a traitor!");
+      console.log(name);
     }
   }
 
   return "No traitor found";
 }
 
+q;
 let parchmentCode =
   "hL2I@k4jjA7zD98n6L!L1mFhP!aVh3X4a8e9R92sYtkdZ#8Fi!P-87cr78ngL1i8n9d6aT3w7tX9L1";

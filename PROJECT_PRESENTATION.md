@@ -8,6 +8,17 @@ Our project is based on murder mystery game show The Traitors.
 
 We've written a series of coding puzzles themed around tracking down Traitors and helping fellow Faithfuls. The goal is to help you practice your coding skills in a fun and engaging way, putting your problem solving skills to the test and embracing the detective mindset 🔎
 
+## Instructions
+
+TASK TWO 🎭
+Last night, one of the faithfuls met their fate. But before they were killed, they left behind a clue as to who the murdererous traitor might be - a scroll of parchment with some mysterious code written on it:
+
+"hL2I@k4jjA7zD98n6L!L1mFhP!aVh3X4a8e9R92sYtkdZ#8Fi!P-87cr78ngL1i8n9d6aT3w7tX9L1"
+
+Write a function to decipher the code and find the name of the traitor.
+
+Here is a list of all the potential traitors indentified so far by the faithfuls to help you - "Alexander", "Leanne", "Linda", "Frankie".
+
 ## Planning Phase
 
 ### Project Requirements
@@ -34,23 +45,6 @@ We've written a series of coding puzzles themed around tracking down Traitors an
    - Supporting details
    - Potential challenges
    - Implementation approaches
-
-### Research Notes
-
-- Market analysis findings
-- Competitor research
-- Technical feasibility studies
-
-## Implementation
-
-### Progress Tracking
-
-- [ ] Task 1
-  - [ ] Subtask A
-  - [ ] Subtask B
-- [ ] Task 2
-  - [ ] Subtask A
-  - [ ] Subtask B
 
 ### Challenges & Solutions
 
