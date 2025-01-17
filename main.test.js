@@ -1,6 +1,6 @@
 import { test, expect } from "vitest";
 
-import { findTraitor } from "main.js";
+import { findTraitor } from "./main.js";
 
 //Checking we get the expected result of "Linda"
 test("Reveal which potential Traitor's name is in the code", () => {
@@ -12,8 +12,6 @@ test("Reveal which potential Traitor's name is in the code", () => {
 test("Should throw an error if the incorrect name is returned", () => {
   expect(() => findTraitor("Alexander")).toThrow("No traitor found");
 });
-
-//Does the passing test return the Traitors name?
 
 /*Other potential test cases
 //No name returned
